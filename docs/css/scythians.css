@@ -1,0 +1,54 @@
+
+/* --- ############# xxx ############# --- */
+*{
+  box-sizing: border-box;
+}
+
+/* --- ############# TMPs ############# --- */
+
+
+h1{
+  text-align: center;
+}
+
+
+
+body{
+font-family: 'Cutive Mono';
+  width: 83%;
+  margin: auto;
+    background-color: #2b55ff;
+  color: #aaff2b;
+  padding: 37px;
+
+}
+html{
+  background-color: black;
+}
+p{
+  font-size: 2.2vw;
+}
+
+/* --- ############# xxx ############# --- */
+.color-main{color: #;}
+.color-alt{color: #;}
+.color-bg{color: #;}
+.c-blue{color: #2b55ff;}
+.c-green{color: #aaff2b;}
+/* --- ############# xxx ############# --- */
+#slogo{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+
+/* --- ############# xxx ############# --- */
+
+
+/* --- ############# xxx ############# --- */
+
+
+/* --- ############# xxx ############# --- */
+
+
